@@ -16,7 +16,7 @@ app.post('/generate-code', async (req, res) => {
   const { description } = req.body;
 
   // Replace 'YOUR_DEEPAI_API_KEY' with your actual DeepAI API key
-  const apiKey = 'YOUR_DEEPAI_API_KEY';
+  const apiKey = 8977a908-6987-4cb2-bfde-6a4f6dcfb5d9;
   const apiUrl = 'https://api.deepai.org/codex';
 
   try {
